@@ -1,0 +1,6 @@
+/parquetgooglestorage
+/vendor
+/go
+.*
+!.gitignore
+!.dockerignore
